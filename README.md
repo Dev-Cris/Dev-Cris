@@ -8,7 +8,7 @@ Enthusiastic, motivated and dedicated. Three words that describe my approach tow
 
 * 🌍  I'm based in Debrecen, Hungary
 * ✉️  You can contact me at [cris.d.gui@gmail.com](mailto:cris.d.gui@gmail.com)
-* 🧠  I'm learning Android development with Kotlin
+* 🧠  I'm learning Data Structures and Algorithms
 * 🤝  I'm open to collaborating on any type of project
 
 ### Backend Skills
