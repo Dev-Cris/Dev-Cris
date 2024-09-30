@@ -6,7 +6,7 @@ Java Backend Developer
 
 Enthusiastic, motivated and dedicated. Three words that describe my approach towards programming. I've decided to change my career and discovering this complex but fun, intimidating but inviting word of programming, I made the first steps and set out on this journey. After finishing a Junior Java Backend Developer Bootcamp, I am eager to overcome bigger challenges and reach bigger achievements.
 
-* 🌍  I'm based in Debrecen, Hungary
+* 🌍  I'm based in Szentendre, Hungary
 * ✉️  You can contact me at [cris.d.gui@gmail.com](mailto:cris.d.gui@gmail.com)
 * 🧠  I'm learning Data Structures and Algorithms
 * 🤝  I'm open to collaborating on any type of project
